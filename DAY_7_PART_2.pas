@@ -1,7 +1,7 @@
 
 // Name:   AOC_2021_DAY7_PART2
 // Author: Ort
-// Date    2021/12/07
+// Date:   2021/12/07
 
 Uses sysutils, Math;
 
